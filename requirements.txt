@@ -1,0 +1,8 @@
+# pip install -r requirements.txt  
+# Install dependencies from this file
+
+pandas
+python-docx
+pdfkit
+wkhtmltopdf
+fpdf

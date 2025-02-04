@@ -1,0 +1,8 @@
+__pycache__/
+outputs/generated_cover_letters/
+*.log
+*.csv
+*.ipynb_checkpoints/
+.env
+src/config.py
+*.json
