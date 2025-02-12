@@ -17,6 +17,8 @@ def save_cover_letter(role, company, content):
     Generate Cover Letter and save as Word (.docx) and PDF (.pdf)
 
     """
+    role= role.replace("/", "-").replace("\\", "-")
+    company = company.replace("/", "-").replace("\\", "-")
     filename = f"CL_Fafa_Jinghwa_{role}_{company}".replace(" ", "_")  # # Remove spaces in filename
     word_file = os.path.join(OUTPUT_DIR, filename + ".docx")
     pdf_file = os.path.join(OUTPUT_DIR, filename + ".pdf")

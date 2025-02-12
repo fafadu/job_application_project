@@ -1,8 +1,8 @@
 #This is  experience_data.py
 skillset = [
     "Data analytics", "statistics",
-    "Python", "R", "SQL", "Databricks", "Git", "Excel", "VBA", "Power BI", "DAX", "Power Query",
-    "Machine learning", "ETL", "ML / AI", "Pandas", "cloud-computing", "AWS", "Azure",
+    "Python", " R ", "SQL", "Databricks", " Git ", "Excel", "VBA", "Power BI", "DAX", "Power Query",
+    "Machine learning", "ETL", "ML / AI", "Pandas", "cloud-computing", "AWS", "Azure","healthcare"
     "reporting", "visualisations"
 ]
 
@@ -21,16 +21,16 @@ experiences = {
             "keywords": ["dashboard", "KPI", "data visualization", "Power BI", "Trend", "patterns"]
         },
          {
-            "sentence": "Transformed complex data into clear and actionable reports to support workflow visualization and patient journey analysis. Maintained detailed documentation of data processes and standards, ensuring clarity.",
-            "keywords": ["writing", "reporting", "storytelling", "visualization", "workflow", "patient", "documentation", "convey", "insights"]
+            "sentence": "Transformed complex clinical data into clear and actionable reports to support workflow visualization and patient journey analysis. Maintained detailed documentation of data processes and standards, ensuring clarity.",
+            "keywords": ["writing", "reporting", "storytelling", "visualization", "workflow", "patient", "documentation", "convey", "insights","clinical"]
         },
         {
             "sentence": "Actively engaged with key stakeholders, including clinicians, senior data analysts, and patient feedback quality researchers, to facilitate discussions on business processes and requirements. Addressed challenges using Agile methodology, proposed technical solutions and database system recommendations, and drafted reports for the board.",
-            "keywords": ["communication", "Agile", "teamwork", "Healthcare","multidisciplinary", "stakeholder", "clinician", "patient", "technical","solution", "business processe", "business requirement", "deliverable","business intelligence"]
+            "keywords": ["communication", "Agile", "teamwork", "Healthcare","clinical","multidisciplinary", "stakeholder", "clinician", "patient", "technical","solution", "business processe", "business requirement", "deliverable","business intelligence"]
         },
         {
             "sentence": "Leveraged MySQL to extract and analyze accurate data from hospital databases and Electronic Medical Records (EMR), demonstrating a strong understanding of healthcare data structures and allied health systems.",
-            "keywords": ["sql", "database", "EMR", "EHR", "healthcare", "data extraction", "data analysis", "allied health", "hospital systems"]
+            "keywords": ["sql", "database", "EMR", "EHR", "healthcare", "data extraction", "data analysis", "allied health", "hospital systems","healthcare"]
         }
     ],
     "STEM Outreach Program": [

@@ -33,8 +33,10 @@ job_application_project/
 
 ## How It Works
 1. **Input Selection:** Users choose to input a job description manually or extract one from `m2.csv`.
+![Demo: input jobs' info ](assets/jobinput.png)
 2. **Keyword Detection:** The system scans the JD for predefined keywords related to skills and experience.
 3. **Cover Letter Generation:** A structured cover letter is created based on matched skills and experiences.
+![Demo: Text output ](assets/coverletter_example.png)
 4. **File Output:** The cover letter is saved as both a `.docx` (Word) and `.pdf` file.
 
 ## Setup & Usage
@@ -57,9 +59,4 @@ python main.py
 ## Future Improvements
 - **Automated Web Scraping:** Currently, CSV import is required; web scraping part please refer to my other repository: [Indeed-data-scraping-and-visualization](https://github.com/fafadu/Indeed-data-scraping-and-visualization).)
 
-## Contributions
-Contributions and suggestions are welcome! Feel free to submit a pull request or open an issue.
-
-## License
-This project is licensed under the MIT License.
 

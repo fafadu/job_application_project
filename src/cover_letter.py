@@ -49,8 +49,7 @@ I collaborated with the Allied Services Team to extract insights from healthcare
     
 {VISA_STATUS}
 {LOCATION}
-
-I look forward to the possibility of contributing to your organization’s success.
+Thank you for considering my application, and I look forward to contributing to your organization.
 
 Kind regards,  
 {APPNAME}
