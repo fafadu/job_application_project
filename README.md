@@ -33,10 +33,10 @@ job_application_project/
 
 ## How It Works
 1. **Input Selection:** Users choose to input a job description manually or extract one from `m2.csv`.
-![Demo: input jobs' info ](https://github.com/fafadu/job_application_project/blob/main/assests/coverletter_example.png)
+![Demo: Text output ](https://github.com/fafadu/job_application_project/blob/main/assests/jobinput.png)
 2. **Keyword Detection:** The system scans the JD for predefined keywords related to skills and experience.
 3. **Cover Letter Generation:** A structured cover letter is created based on matched skills and experiences.
-![Demo: Text output ](https://github.com/fafadu/job_application_project/blob/main/assests/jobinput.png)
+![Demo: input jobs' info ](https://github.com/fafadu/job_application_project/blob/main/assests/coverletter_example.png)
 4. **File Output:** The cover letter is saved as both a `.docx` (Word) and `.pdf` file.
 
 ## Setup & Usage
