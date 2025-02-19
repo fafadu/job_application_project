@@ -44,6 +44,6 @@ def save_cover_letter(role, company, content):
 
     pdf.output(pdf_file)
 
-    print(f"✅ Cover Letter saved as:\n- {word_file}\n- {pdf_file}")
+    print(f"✅ Cover Letter saved as:- word_file, pdf_file")
     
 
